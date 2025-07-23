@@ -7,16 +7,16 @@ Includes basic automated script using selenium (Python) and a demo video
 - Add new task
 - Mark it completed
 - Delete task
-##### Tools used
+#### Tools used
 - Python 3.13.5
 - Seleinum
 - ChromeDriver
 - Snipping tool (for screen recording)
-###### Steps to run the automation
+#### Steps to run the automation
 - Clone the repository
 - Install dependencies
 - Run the test
-###### Assumptions Made
+#### Assumptions Made
 - The to-do app is available online and opens without needing a login (to simplify the automation process)
 - The app works in the Google Chrome browser
 - The to-do list has:
